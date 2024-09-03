@@ -64,5 +64,5 @@ The script provided in this repository will automatically handle the following:
 
 ## References
 
-- [VGG19 Model Pre-trained Weights](#) (Insert link here)
+- [VGG19 Model Pre-trained Weights](#)[(https://drive.google.com/file/d/1HMN7_oKlXHniX745z40ZT09Ffz3fZaxi/view?usp=drive_link)]
 
