@@ -1,7 +1,3 @@
-Certainly! Here’s the updated README with your GitHub repository URL and additional information about the notebooks and optimizers.
-
----
-
 # Neural Style Transfer
 
 This repository implements Neural Style Transfer (NST) using PyTorch and a pre-trained VGG19 model. The project focuses on fine-tuning the model for style transfer by adjusting **convolutional layers and ReLU activations** and employing advanced optimization techniques with **LBFGS** and **Adam**.
