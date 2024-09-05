@@ -54,6 +54,16 @@ git clone https://github.com/Aadhishreevijay/neural-style-transfer.git
 - **Convolutional Layers Style Transfer**: The notebook [nst_conv_lbfgs_adam.ipynb](https://github.com/Aadhishreevijay/neural-style-transfer/blob/main/nst_conv_lbfgs_adam.ipynb) demonstrates style transfer using convolutional layers.
 - **ReLU Layers Style Transfer**: The notebook [nst_relu_lbfgs_adam.ipynb](https://github.com/Aadhishreevijay/neural-style-transfer/blob/main/nst_relu_lbfgs_adam.ipynb) demonstrates style transfer using ReLU layers.
 
+## Output Examples
+
+Here are a few examples of outputs generated using the style transfer method implemented in this repository:
+
+1. ![Output 1](https://github.com/user-attachments/assets/3825d3f6-0904-47d5-8299-34c8f01bf937)
+2. ![Output 2](https://github.com/user-attachments/assets/cbf3d48d-1e01-4836-b1eb-1e2015771dbb)
+3. ![Output 3](https://github.com/user-attachments/assets/d71a6215-3d48-4da1-a3c3-cc8ceb6837c9)
+4. ![Output 4](https://github.com/user-attachments/assets/13979308-9945-4b9b-ab93-da93f2c2e12c)
+5. ![Output 5](https://github.com/user-attachments/assets/0fd90a5d-ae7a-4980-a73c-0803467718f4)
+
 ## Notes
 
 - **GPU Support**: The code is designed to utilize GPU acceleration if available. If CUDA is not available, it will fall back to using the CPU.
